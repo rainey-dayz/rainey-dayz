@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Raine 
-
 ## 🎓 About Me 
 
   --> Sophmore, BS/MS Mechancical Engineering student at Rochester Institute of Technology ( RIT ) 
