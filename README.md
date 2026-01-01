@@ -2,7 +2,7 @@
 
 ## 🎓 About Me 
 
-  --> Sophmore,BS/MS Mechancical Engineering student at Rochester Institute of Technology ( RIT ) 
+  --> Sophmore, BS/MS Mechancical Engineering student at Rochester Institute of Technology ( RIT ) 
       with a minor in Mandarin Chinese and a focus in Aerospace Engineering
 
 ## Courses
